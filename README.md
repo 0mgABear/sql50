@@ -2,4 +2,5 @@
 
 Repository set up to finish: https://leetcode.com/studyplan/top-sql-50/
 
-![download](https://github.com/user-attachments/assets/b2a8c917-06e1-470d-bd6d-7e380b4ad82b)
+![image](https://github.com/user-attachments/assets/2ae3c41a-7b12-4009-8306-8d2acecaa3d8)
+
